@@ -1,6 +1,6 @@
 # Command Line Interpreter
 
-A simplified command line interpreter (shell) written in C++, with a set of Bash-like commands, input/output redirection and pipes. Built in Visual Studio as a project for the **Object-Oriented Programming 1** course at the School of Electrical Engineering, University of Belgrade (academic year 2025/2026).
+A simplified command line interpreter (shell) written in C++, with a set of Bash-like commands, input/output redirection and pipes. 
 
 ## Features
 
