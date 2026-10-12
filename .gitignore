@@ -1,0 +1,14 @@
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.ipch
+*.VC.db
+*.VC.opendb
+*.pdb
+*.obj
+*.ilk
+*.exe
